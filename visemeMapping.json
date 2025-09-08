@@ -1,0 +1,14 @@
+{
+  "viseme_neutral": ["sil", "pau"],
+  "viseme_closed": ["p", "b", "m"],
+  "viseme_open": ["a", "ah", "aa"],
+  "viseme_wide": ["e", "i", "ee"],
+  "viseme_round": ["o", "u", "w"],
+  "viseme_teeth": ["f", "v"],
+  "viseme_th": ["th"],
+  "viseme_l_tongue": ["l", "d", "t", "n"],
+  "blink_left": ["blink_l"],
+  "blink_right": ["blink_r"],
+  "smile": ["happy"],
+  "frown": ["sad", "concerned"]
+}
